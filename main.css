@@ -48,7 +48,7 @@ body {
 .jumbotron p {
   color: #fff;
   font-size: 20px;
-  text-shadow: 2px 2px #333;
+  font-weight: bolder;
 }
 
 .about-body {
